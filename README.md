@@ -2,7 +2,7 @@
 
 - 作者: [赵国磊](https://github.com/zhaoguolei1024)
 - [官网](https://markdown2web.com)
-- QQ技术交流群群：待添加
+- QQ技术交流群：待添加
 - QQ：476795484
 
 ## 简介
